@@ -1,0 +1,5 @@
+chess
+openai
+anthropic
+pandas
+python-dotenv
